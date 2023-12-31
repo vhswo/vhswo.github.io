@@ -8,7 +8,6 @@ description: CheckCopy
 ---
 
 
+<video width="630" height="300" src="https://github.com/vhswo/vhswo.github.io/assets/39188197/af65ee64-3d78-4b7a-b20d-f0b25ca56a16"></video>
 
-
-https://github.com/vhswo/vhswo.github.io/assets/39188197/af65ee64-3d78-4b7a-b20d-f0b25ca56a16
 
