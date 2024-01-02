@@ -8,10 +8,14 @@ description: CheckCopys
 ---
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb" alt="움짤">
-  <p>이미지 아래의 텍스트</p>
-   <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb" alt="움짤">
-  <p>이미지 아래의 텍스트</p>
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb" alt="움짤">
+    <p>이미지 아래의 텍스트</p>
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb" alt="움짤">
+    <p>이미지 아래의 텍스트</p>
+  </div>
 </div>
 <div style="display: flex; flex-direction: row;">
    <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb" alt="움짤">
