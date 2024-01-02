@@ -8,7 +8,6 @@ description: CheckCopy
 ---
 
 
-//<video width="540" height="960" src="https://github.com/vhswo/vhswo.github.io/assets/39188197/af65ee64-3d78-4b7a-b20d-f0b25ca56a16"/>
 
-[ㅏㅏ](https://github.com/vhswo/vhswo.github.io/assets/39188197/75735002-19e0-487c-b486-326d17c792a2)
 
+![제목 없는 동영상 - Clipchamp로 제작](https://github.com/vhswo/vhswo.github.io/assets/39188197/0bd4af71-c008-431d-8be5-e665131bb8cb)
