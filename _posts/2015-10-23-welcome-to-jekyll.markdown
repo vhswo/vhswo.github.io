@@ -4,7 +4,7 @@ title:  "UI Animation"
 date:   0000-00-00
 categories: jekyll update
 image: destkop-image-sample.jpg
-description: CheckCopy
+description: CheckCopys
 ---
 
 
