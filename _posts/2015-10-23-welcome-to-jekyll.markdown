@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UI Animation"
-date:   2015-10-23 10:40:06 -0700
+date:   0
 categories: jekyll update
 image: destkop-image-sample.jpg
 description: CheckCopys
