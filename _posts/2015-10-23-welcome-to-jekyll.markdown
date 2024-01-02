@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Smart Post"
-date:   2015-10-23 17:40:06
+title:  "UI Animation"
+date:   0
 categories: jekyll update
 image: destkop-image-sample.jpg
 description: CheckCopy
