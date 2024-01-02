@@ -8,11 +8,11 @@ description: CheckCopys
 ---
 
 <div style="display: flex; flex-direction: row; ">
-  <div style="flex: 1; flex-direction: column; margin-right: 1%;">
+  <div style="flex: 1; flex-direction: column;">
     <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/1d761b02-28c3-472c-915d-119c5d35dd42" alt="움짤">
     <p>sin그래프를 활용한 애니메이션</p>
   </div>
-  <div style="flex: 1; flex-direction: column; margin-right: 1%">
+  <div style="flex: 1; flex-direction: column;">
     <img src="https://github.com/vhswo/vhswo.github.io/assets/39188197/481cc6c7-c631-4964-866c-43142b188764" alt="움짤">
     <p>rotate와 angle을 이용한 애니메이션</p>
   </div>
